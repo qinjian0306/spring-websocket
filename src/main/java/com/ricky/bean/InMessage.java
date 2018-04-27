@@ -1,4 +1,4 @@
-package com.ricky.websocket;
+package com.ricky.bean;
 
 import lombok.Data;
 import lombok.ToString;

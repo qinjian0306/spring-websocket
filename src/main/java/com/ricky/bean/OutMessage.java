@@ -1,4 +1,4 @@
-package com.ricky.websocket;
+package com.ricky.bean;
 
 /**
  * 消息推送实体

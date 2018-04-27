@@ -1,5 +1,7 @@
 package com.ricky.websocket;
 
+import com.ricky.bean.InMessage;
+import com.ricky.bean.OutMessage;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.messaging.MessageHeaders;
